@@ -1,7 +1,7 @@
 # ar_plugin
 refference 
 (https://github.com/CariusLars/ar_flutter_plugin)
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
